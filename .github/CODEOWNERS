@@ -1,0 +1,12 @@
+# Everything needs the owner's review
+*            @NdururiJr
+
+# Agent settings and workflows: owner only
+CLAUDE.md    @NdururiJr
+AGENTS.md    @NdururiJr
+ROLE.md      @NdururiJr
+.claude/     @NdururiJr
+.mcp.json    @NdururiJr
+.agents/     @NdururiJr
+.codex/      @NdururiJr
+.github/     @NdururiJr
